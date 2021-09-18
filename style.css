@@ -1,0 +1,13 @@
+p{
+    color: whitesmoke;
+}
+.name_of_object{
+    font-size: large;
+}
+#design{
+    font-size: large;
+}
+#result , #camera{
+    width: 350px;
+    height: 300px;
+}
